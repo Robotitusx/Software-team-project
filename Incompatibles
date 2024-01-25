@@ -1,0 +1,22 @@
+{
+  "_incompatibles": {
+    "23252342": [
+      {
+        "_nombre": "Daniel Bertaccini",
+        "_cargo": "ARQUITECTO",
+        "_dni": 74896541,
+        "_calificacion_historica": 2,
+        "path": "Imagenes/daniel_bertaccini.png"
+      }
+    ],
+    "74896541": [
+      {
+        "_nombre": "Francisco Gottig",
+        "_cargo": "TESTER",
+        "_dni": 23252342,
+        "_calificacion_historica": 5,
+        "path": "Imagenes/unknown.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "personas": {
+    "23252342": {
+      "_nombre": "Francisco Gottig",
+      "_cargo": "TESTER",
+      "_dni": 23252342,
+      "_calificacion_historica": 5,
+      "path": "Imagenes/unknown.png"
+    },
+    "13253342": {
+      "_nombre": "Santiago Gomez",
+      "_cargo": "TESTER",
+      "_dni": 13253342,
+      "_calificacion_historica": 5,
+      "path": "Imagenes/unknown.png"
+    },
+    "23050343": {
+      "_nombre": "Gabriel Carrillo",
+      "_cargo": "PROGRAMADOR",
+      "_dni": 23050343,
+      "_calificacion_historica": 5,
+      "path": "Imagenes/unknown.png"
+    },
+    "83253342": {
+      "_nombre": "Ignacio Sotelo",
+      "_cargo": "TESTER",
+      "_dni": 83253342,
+      "_calificacion_historica": 1,
+      "path": "Imagenes/unknown.png"
+    },
+    "23050342": {
+      "_nombre": "Patricia Bagnes",
+      "_cargo": "ARQUITECTO",
+      "_dni": 23050342,
+      "_calificacion_historica": 1,
+      "path": "Imagenes/unknown.png"
+    },
+    "23052342": {
+      "_nombre": "Javier Marenco",
+      "_cargo": "LIDER_DE_PROYECTO",
+      "_dni": 23052342,
+      "_calificacion_historica": 2,
+      "path": "Imagenes/Javier-Marenco.jpg"
+    },
+    "74896541": {
+      "_nombre": "Daniel Bertaccini",
+      "_cargo": "ARQUITECTO",
+      "_dni": 74896541,
+      "_calificacion_historica": 2,
+      "path": "Imagenes/daniel_bertaccini.png"
+    }
+  }
+}
